@@ -18,6 +18,7 @@
 *://*.downxia.com/*
 *://*.error-dll.info/*
 *://*.exefiles.com/*
+*://filehippo.com/*
 *://*.filehorse.com/*
 *://*.fileplanet.com/*
 *://*.free-codecs.com/*
